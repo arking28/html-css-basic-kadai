@@ -1,9 +1,9 @@
 body {
   font-family: "Arial","Meiryo",sans-serif;
+  text-align: center;
 }
 html {
   font-size: 20px;
-  text-align: center;
 }
 .pink {
   color: rgb(255, 192, 203) 
@@ -18,6 +18,6 @@ h1 {
   text-shadow: 4px 4px 2px gray;
   border-bottom: solid 3px rgb(115, 115, 114);
 }
-div {
+#basic > p {
   font-weight: bold;
 }
